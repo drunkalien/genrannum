@@ -1,0 +1,23 @@
+{
+  "name": "genrannum",
+  "version": "1.0.0",
+  "description": "Generates random number in a given range",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamshidkhuja2001/genrannum.git"
+  },
+  "keywords": [
+    "random",
+    "generate"
+  ],
+  "author": "Jamshidkhuja Burikhujaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jamshidkhuja2001/genrannum/issues"
+  },
+  "homepage": "https://github.com/Jamshidkhuja2001/genrannum#readme"
+}

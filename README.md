@@ -9,7 +9,7 @@ Generates random number in a given range
 # Usage
 
 ```
-import { r } from 'genrannum';
+const r = require('genrannum');
 
 r(5);
 ```
